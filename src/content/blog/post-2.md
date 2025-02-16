@@ -1,6 +1,7 @@
 ---
 title: "The Principles of User Experience Design"
 publishDate: 2024-08-31T07:25:20.284Z
+draft: true
 tags: ["UX Design"]
 ---
 
