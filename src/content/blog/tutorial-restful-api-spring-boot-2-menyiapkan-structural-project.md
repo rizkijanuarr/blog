@@ -2,7 +2,7 @@
 title: Tutorial Restful API Spring Boot 2 || Menyiapkan Structural Project dan Utils
 publishDate: 2025-02-17T04:00:07.517Z
 draft: false
-tags: []
+tags: ["Java", "Spring Boot"]
 ---
 
 Pada seri artikel ini mungkin Anda bertanya-tanya mengapa kita harus menyiapkan dari awal perihal structural project? Pertanyaan yang menarik, mungkin untuk project skala kecil yang mana hanya di maintaince oleh satu orang mungkin kita gak perlu menerapkan ini, akan tetapi saya akan mencontohkan bagaimana ketika project sudah skala besar dan yang maintaince bukan hanya satu orang saja. 
